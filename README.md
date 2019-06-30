@@ -1,4 +1,7 @@
-# *folio
+## horiusagi
+ This jekyll theme is adapted from the excellent and intuitively designed *folio theme built by Lia Bogoev.   
+
+## *folio
 A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
 
 
