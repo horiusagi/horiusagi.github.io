@@ -19,13 +19,13 @@ shedule a consultation or to book in continuing work.
 <br/>
 <span class="contacticon center">
 	<a href="mailto:trevor@horiusagi.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://www.instagram.com/horiusagi_/" target="_blank"><i class="fa fa-instagram"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://instagram.com" target="_blank"><i class="fa fa-instagram"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	.
 </div>
 
