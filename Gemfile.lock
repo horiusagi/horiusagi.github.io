@@ -215,6 +215,8 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    rb-kqueue (0.2.5)
+      ffi (>= 0.5.0)
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
@@ -243,6 +245,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  rb-kqueue (>= 0.2)
 
 BUNDLED WITH
    2.0.2
