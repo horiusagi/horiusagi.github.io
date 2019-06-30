@@ -1,0 +1,1 @@
+type $ jekyll serve while in this root directory and then go to 127.0.0.1:4000 and launch the site.
