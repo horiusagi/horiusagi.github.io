@@ -1,4 +1,4 @@
-## horiusagi
+# horiusagi
  This jekyll theme is adapted from the excellent and intuitively designed *folio theme built by Lia Bogoev.   
 
 ## *folio
