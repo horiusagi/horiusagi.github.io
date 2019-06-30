@@ -12,6 +12,17 @@ title: blog
       </li>
     {% endfor %}
 </ul>
+
+
+
+
+
+
+
+
+
+
+
 <ul class="sidebar">
 {% assign currentYear = site.time | date: "%Y" %}
 {% assign currentMonth = site.time | date: "%B" %}
