@@ -18,11 +18,11 @@ shedule a consultation or to book in continuing work.
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:trevor@horiusagi.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://www.instagram.com/horiusagi_/" target="_blank"><i class="fa fa-instagram"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="mailto:trevor@horiusagi.com"><i class="fas fa-envelope-square"></i></a>
+	<a href="https://www.patreon.com/horiusagi" target="_blank"><i class="fab fa-patreon"></i></a>
+	<a href="https://www.instagram.com/horiusagi_/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://github.com" target="_blank"><i class="fab fa-github-square"></i></a>
+	<a href="http://www.threepointtattoo.com" target="_blank"><i class="far fa-circle"></i></a> 
 </span>
 
 <div class="col three caption">
