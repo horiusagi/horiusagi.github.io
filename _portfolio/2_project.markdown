@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: 花鳥画
+description: Flower and Bird Painting
 img: /img/2.jpg
 ---
 
