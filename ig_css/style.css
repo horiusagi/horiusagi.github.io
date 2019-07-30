@@ -24,7 +24,7 @@ body {
   width: 100%;
   height: 100%;
   background-size: cover;
-  background-position: center;
+  background-position: left;
   cursor: pointer;
   transition: transform ease-in-out 300ms;
 }
@@ -43,8 +43,8 @@ body {
 }
 
 .img-c.active {
-  width: 100% !important;
-  height: 100% !important;
+  width: 50% !important;
+  height: 50% !important;
   position: absolute;
   z-index: 2;
 }
