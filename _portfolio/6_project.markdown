@@ -2,7 +2,7 @@
 layout: post
 title: Instagram
 description: Follow me on Instagram.
-img:
+img: /img/portfo4_tengu.jpg
 redirect: https://www.instagram.com/horiusagi_/
 ---
 
