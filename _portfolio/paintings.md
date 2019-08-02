@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Prints and Illustrations
+layout: page
+title: Paintings
 description:
-img: /img/portfo1_luckymalletcard.jpg
+permalink: /paintings/
+img: /img/portfo2_daruma2.jpg
 ---
 <html>
 <body>
@@ -16,16 +17,16 @@ img: /img/portfo1_luckymalletcard.jpg
              <div class="filters-container">
                  <ul class="media-boxes-filter" id="filter">
                    <li><a class="selected" href="#" data-filter="*">All</a></li>
-                   <li><a href="#" data-filter=".category1">Promotional</a></li>
-                   <li><a href="#" data-filter=".category2">Category 2</a></li>
-                   <li><a href="#" data-filter=".category3">Category 3</a></li>
+                   <li><a href="#" data-filter=".category1">花鳥の絵画</a></li>
+                   <li><a href="#" data-filter=".category2">水山の絵画</a></li>
+                   <li><a href="#" data-filter=".category3">仏教の絵画</a></li>
                  </ul>
              </div>
              <div id="grid">
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category1">
-                     <div class="media-box-image mb-open-popup" data-src="/img/portfo1_luckymalletcard.jpg">
-                         <div data-thumbnail="/img/portfo1_luckymalletcard.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/portfo2_yellowbotonnotori.jpg">
+                         <div data-thumbnail="/img/portfo2_yellowbotonnotori.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">Dolor sit amet</div>
                              <div class="media-box-date">December 10, 2013</div>
@@ -34,8 +35,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category1">
-                     <div class="media-box-image mb-open-popup" data-src="/img/portfo1_usaginoryuu.jpg">
-                         <div data-thumbnail="/img/portfo1_usaginoryuu.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/portfo2_pinkbotonfan.jpg">
+                         <div data-thumbnail="/img/portfo2_pinkbotonfan.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">Psico dell consecteture</div>
                              <div class="media-box-date">December 10, 2013</div>
@@ -44,8 +45,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category3">
-                     <div class="media-box-image mb-open-popup" data-src="/img/img-3.jpg">
-                         <div data-thumbnail="/img/thumb-3.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/portfo2_daruma1.jpg">
+                         <div data-thumbnail="/img/portfo2_daruma1.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">Sed do eiusmod</div>
                              <div class="media-box-date">December 10, 2013</div>
@@ -53,9 +54,9 @@ img: /img/portfo1_luckymalletcard.jpg
                      </div>
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
-                 <div class="media-box category1">
-                     <div class="media-box-image mb-open-popup" data-src="/img/img-4.jpg">
-                         <div data-thumbnail="/img/thumb-4.jpg" ></div>
+                 <div class="media-box category3">
+                     <div class="media-box-image mb-open-popup" data-src="/img/portfo2_daruma2.jpg">
+                         <div data-thumbnail="/img/portfo2_daruma2.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">Incididunt ut labore</div>
                              <div class="media-box-date">December 10, 2013</div>

@@ -19,9 +19,9 @@ paginate_path: "/blog/page:num/"
 plugins: [jekyll-paginate]
 
 collections:
-  portfolio:
-    output: true
-    permalink: /artwork/:path/
+   #portfolio:
+   #output: true
+   #permalink: /artwork/:path/
   contact:
     output: true
     permalink: /contact/:path/

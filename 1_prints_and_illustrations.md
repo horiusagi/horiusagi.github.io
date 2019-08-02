@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Flash
-description: custom tattoo designs
-img: /img/portfo4_tengu.jpg
+layout: page
+title:
+description:
+permalink: /artwork/prints_and_illustrations/
+img: /img/portfo1_luckymalletcard.jpg
 ---
 <html>
 <body>
@@ -16,16 +17,16 @@ img: /img/portfo4_tengu.jpg
              <div class="filters-container">
                  <ul class="media-boxes-filter" id="filter">
                    <li><a class="selected" href="#" data-filter="*">All</a></li>
-                   <li><a href="#" data-filter=".category1">Available Designs</a></li>
-                   <li><a href="#" data-filter=".category2">Archived Designs</a></li>
+                   <li><a href="#" data-filter=".category1">Promotional</a></li>
+                   <li><a href="#" data-filter=".category2">Category 2</a></li>
                    <li><a href="#" data-filter=".category3">Category 3</a></li>
                  </ul>
              </div>
              <div id="grid">
          <!-- -------------------------- BOX MARKUP -------------------------- -->
-                 <div class="media-box category1" data-columns="2">
-                     <div class="media-box-image mb-open-popup" data-src="/img/portfo4_tengu.jpg">
-                         <div data-thumbnail="/img/portfo4_tengu.jpg" ></div>
+                 <div class="media-box category1">
+                     <div class="media-box-image mb-open-popup" data-src="/img/portfo1_luckymalletcard.jpg">
+                         <div data-thumbnail="/img/portfo1_luckymalletcard.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">Dolor sit amet</div>
                              <div class="media-box-date">December 10, 2013</div>
