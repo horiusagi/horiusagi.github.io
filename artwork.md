@@ -19,7 +19,7 @@ permalink: /artwork/
                      <a href="/artwork/prints_and_illustrations/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                         <div class="thumbnail-overlay overlayalways-visible">
                              <div class="media-box-title">Prints and Illustrations</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -31,7 +31,7 @@ permalink: /artwork/
                      <a href="/artwork/paintings/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                         <div class="thumbnail-overlay overlayalways-visible">
                              <div class="media-box-title">Paintings</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -43,7 +43,7 @@ permalink: /artwork/
                      <a href="/artwork/sketchbook/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                         <div class="thumbnail-overlay overlayalways-visible">
                              <div class="media-box-title">Sketches</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -80,7 +80,7 @@ permalink: /artwork/
                      <div class="media-box-image">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
                          <div class="thumbnail-overlay overlay-always-visible">
-                             <div class="media-box-title always-visable">Instagram</div>
+                             <div class="media-box-title">Instagram</div>
                              <div class="media-box-date"></div>
                          </div>
                      </div>
