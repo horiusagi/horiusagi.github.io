@@ -42,7 +42,7 @@ permalink: /artwork/
                      <a href="/artwork/sketchbook/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay">
+                         <div class="thumbnail-overlay overlay-always-visible">
                              <div class="media-box-title">Sketches</div>
                              <div class="media-box-date"></div>
                          </div>
