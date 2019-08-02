@@ -4,6 +4,7 @@ title: artwork
 permalink: /artwork/
 ---
 <html>
+<script>$(window).on(“scroll touchmove”, function () {});</script>
 <body>
      <!-- Media Boxes CSS files -->
      <link rel="stylesheet" href="{{ site.baseurl }}/plugin/components/Font Awesome/css/font-awesome.min.css">
