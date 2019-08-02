@@ -80,7 +80,7 @@ permalink: /artwork/
                      <div class="media-box-image">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
                          <div class="thumbnail-overlay overlay-always-visible">
-                             <div class="media-box-title">Instagram</div>
+                             <div class="media-box-title always-visable">Instagram</div>
                              <div class="media-box-date"></div>
                          </div>
                      </div>
