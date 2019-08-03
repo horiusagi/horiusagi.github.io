@@ -20,6 +20,7 @@ img: /img/portfo1_luckymalletcard.jpg
                    <li><a href="#" data-filter=".category1">paintsketch</a></li>
                    <li><a href="#" data-filter=".category2">sketchbook</a></li>
                    <li><a href="#" data-filter=".category3">dragons</a></li>
+                   <li><a href="/artwork/">back</a></li>
                  </ul>
              </div>
              <div id="grid">

@@ -15,6 +15,7 @@ permalink: /artwork/
           <!--  ================== MEDIA BOXES ================== -->
           <div class="filters-container">
               <ul class="media-boxes-filter" id="filter">
+                <li><a href="/artwork/">Artwork</a></li>
                 <li><a href="/artwork/prints_and_illustrations/">Prints</a></li>
                 <li><a href="/artwork/paintings/">Paintings</a></li>
                 <li><a href="/artwork/sketchbook/">Sketches</a></li>
