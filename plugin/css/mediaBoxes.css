@@ -187,7 +187,7 @@
     letter-spacing: 0px;
     line-height: normal;
     font-weight: 600;
-    color: white;
+    color: #dbdbdb;
     font-size: 18px;
   }
 
@@ -221,9 +221,9 @@
   }
   
   .media-box-date{
-    font-size: 11px;
+    font-size: 12px;
     line-height: 15px;
-    color: #e54e53;
+    color: #fbfbfb;
     margin-top: 5px;
   }
 
@@ -248,7 +248,7 @@
   }
 
   .media-box-text{
-    color: rgb(119, 119, 119);
+    color: #fbfbfb;
     font-size: 14px;
     line-height: 26.6px;
     margin: 13px 0px 13px 0 !important;

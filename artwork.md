@@ -15,10 +15,10 @@ permalink: /artwork/
           <!--  ================== MEDIA BOXES ================== -->
           <div class="filters-container">
               <ul class="media-boxes-filter" id="filter">
-                <li><a href="/artwork/prints_and_illustrations/">Prints</a></li>
+                <li><a href="/artwork/prints_and_illustrations/">Illustration</a></li>
                 <li><a href="/artwork/paintings/">Paintings</a></li>
                 <li><a href="/artwork/sketchbook/">Sketches</a></li>
-                <li><a href="/artwork/flash/">Flash Designs</a></li>
+                <li><a href="/artwork/flash/">Tattoo Flash</a></li>
                 <li><a href="/artwork/tattoos">Tattoos</a></li>
                 <li><a href="https://www.instagram.com/horiusagi_/" target="_blank">Instagram</a></li>
              </ul> 
@@ -30,7 +30,7 @@ permalink: /artwork/
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
                           <div class="thumbnail-overlay overlay-always-visible">
-                             <div class="media-box-title">Prints and Illustrations</div>
+                             <div class="media-box-title">Illustration</div>
                              <div class="media-box-date"></div>
                          </div>
                        </div>
