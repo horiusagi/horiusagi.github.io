@@ -20,7 +20,7 @@ img: /img/portfo2_daruma2.jpg
                    <li><a href="#" data-filter=".category1">花鳥の絵画</a></li>
                    <li><a href="#" data-filter=".category2">水山の絵画</a></li>
                    <li><a href="#" data-filter=".category3">仏教の絵画</a></li>
-                   <li><a href="/artwork/">back</a></li>
+                   <li><a href="/artwork/"><i class="fa fa-angle-left" aria-hidden="true"></i></a></li>
                  </ul>
              </div>
              <div id="grid">

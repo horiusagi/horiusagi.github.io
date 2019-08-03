@@ -19,7 +19,7 @@ img: /img/portfo4_tengu.jpg
                    <li><a href="#" data-filter=".category1">Available Designs</a></li>
                    <li><a href="#" data-filter=".category2">Archived Designs</a></li>
                    <li><a href="#" data-filter=".category3">Category 3</a></li>
-                   <li><a href="/artwork/">back</a></li>
+                   <li><a href="/artwork/"><i class="fa fa-angle-left" aria-hidden="true"></i></a></li>
                  </ul>
              </div>
              <div id="grid">
