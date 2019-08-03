@@ -5,8 +5,52 @@ permalink: /artwork/
 ---
 <html>
 <script>$(window).on(“scroll touchmove”, function () {});</script>
+<style>
+.media-box-image h7{
+font-size: 24px;
+color: rgba(0,0,0,0,0);
+position:absolute;
+top:50%;
+left:50%;
+line-height: 1.5em;
+background-color: rgba(0,0,0,0.2);
+width: 100%;
+height: 100%;
+text-allign:center;
+margin:0;
+transform: translate(-50%, -50%);
+}
+.media-box-image h1{
+font-size: 18px;
+font-weight: 600;
+position:absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color:#eee;
+line-height: 1.5em;
+background-color: rgba(0,0,0,0.0);
+width:100%;
+text-align:center;
+  /* transform:translateY(-50%);  doesn't work in IE9 and older I'm affraid */
+margin:0;
+}
+
+.media-box-image .normal {
+ transition: .5s ease;
+}
+.media-box-image:hover .normal {
+ opacity: 0;
+}
+.media-box-image .hover {
+ background-color: rgba(0,0,0,0.5);
+}
+
+
+</style>
+
 <body>
-     <!-- Media Boxes CSS files -->
+ <!-- Media Boxes CSS files -->
      <link rel="stylesheet" href="{{ site.baseurl }}/plugin/components/Font Awesome/css/font-awesome.min.css">
      <link rel="stylesheet" href="{{ site.baseurl }}/plugin/components/Magnific Popup/magnific-popup.css">
      <link rel="stylesheet" href="{{ site.baseurl }}/plugin/components/Fancybox/jquery.fancybox.min.css">
@@ -19,11 +63,10 @@ permalink: /artwork/
                      <a href="/artwork/prints_and_illustrations/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlayalways-visible">
-                             <div class="media-box-title">Prints and Illustrations</div>
-                             <div class="media-box-date"></div>
-                         </div>
-                     </div>
+                          <h7></h7>
+                          <h1>Prints</h1>
+                          <div class="hover"></div>
+                       </div>
                      </a>
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
@@ -31,10 +74,8 @@ permalink: /artwork/
                      <a href="/artwork/paintings/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlayalways-visible">
-                             <div class="media-box-title">Paintings</div>
-                             <div class="media-box-date"></div>
-                         </div>
+                          <h7></h7>
+                          <h1 allign="center">Paintings</h1>
                      </div>
                      </a>
                  </div>
@@ -43,10 +84,8 @@ permalink: /artwork/
                      <a href="/artwork/sketchbook/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlayalways-visible">
-                             <div class="media-box-title">Sketches</div>
-                             <div class="media-box-date"></div>
-                         </div>
+                          <h7></h7>
+                          <h1 allign="center">Sketches</h1>
                      </div>
                      </a>
                  </div>
@@ -55,10 +94,8 @@ permalink: /artwork/
                      <a href="/artwork/flash/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
-                             <div class="media-box-title">Tattoo Flash</div>
-                             <div class="media-box-date"></div>
-                         </div>
+                          <h7></h7>
+                          <h1>Flash Designs</h1>
                      </div>
                      </a>
                  </div>
@@ -67,10 +104,8 @@ permalink: /artwork/
                      <a href="/artwork/tattoos/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
-                             <div class="media-box-title">Tattoos</div>
-                             <div class="media-box-date"></div>
-                         </div>
+                          <h7></h7>
+                          <h1>Tattoos</h1>
                      </div>
                      </a>
                  </div>
@@ -79,10 +114,8 @@ permalink: /artwork/
                      <a href="/artwork/paintings/">
                      <div class="media-box-image">
                          <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
-                             <div class="media-box-title">Instagram</div>
-                             <div class="media-box-date"></div>
-                         </div>
+                          <h7></h7>
+                          <h1>Instagram</h1>
                      </div>
                      </a>
                  </div>
