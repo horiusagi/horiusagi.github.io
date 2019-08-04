@@ -26,8 +26,8 @@ img: /img/portfo1_luckymalletcard.jpg
              <div id="grid">
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category3">
-                     <div class="media-box-image mb-open-popup" data-src="/img/portfo1_luckymalletcard.jpg">
-                         <div data-thumbnail="/img/portfo1_luckymalletcard.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/il_luckymalletcard.jpg">
+                         <div data-thumbnail="/img/il_luckymalletcard.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">打ち出の小槌</div>
                              <div class="media-box-date">Lucky Mallet Business Card Design</div>
@@ -36,8 +36,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category3">
-                     <div class="media-box-image mb-open-popup" data-src="/img/portfo1_usaginoryuu.jpg">
-                         <div data-thumbnail="/img/portfo1_usaginoryuu.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/il_usaginoryuu.jpg">
+                         <div data-thumbnail="/img/il_usaginoryuu.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">兎の龍</div>
                              <div class="media-box-date">Rabbit and Dragon</div>
@@ -46,8 +46,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category3">
-                     <div class="media-box-image mb-open-popup" data-src="/img/img-3.jpg">
-                         <div data-thumbnail="/img/thumb-3.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/.jpg">
+                         <div data-thumbnail="/img/.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title"></div>
                              <div class="media-box-date">.</div>
@@ -56,8 +56,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category1">
-                     <div class="media-box-image mb-open-popup" data-src="/img/img-4.jpg">
-                         <div data-thumbnail="/img/thumb-4.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/.jpg">
+                         <div data-thumbnail="/img/.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title"></div>
                              <div class="media-box-date">.</div>
@@ -66,8 +66,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category2">
-                     <div class="media-box-image mb-open-popup" data-src="gallery/img-5.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="gallery/thumbnails/thumb-5.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="gallery/.jpg">
+                         <div data-width="240" data-height="151" data-thumbnail="gallery/thumbnails/.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title"></div>
                              <div class="media-box-date">.</div>
@@ -76,8 +76,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category3">
-                     <div class="media-box-image mb-open-popup" data-src="gallery/img-6.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="gallery/thumbnails/thumb-6.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="gallery/.jpg">
+                         <div data-width="240" data-height="151" data-thumbnail="gallery/thumbnails/.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title"></div>
                              <div class="media-box-date">.</div>
@@ -86,8 +86,8 @@ img: /img/portfo1_luckymalletcard.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category1">
-                     <div class="media-box-image mb-open-popup" data-src="gallery/img-7.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="gallery/thumbnails/thumb-7.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="gallery/.jpg">
+                         <div data-width="240" data-height="151" data-thumbnail="gallery/thumbnails/.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title"></div>
                              <div class="media-box-date">.</div>

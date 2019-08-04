@@ -24,8 +24,8 @@ img: /img/portfo4_tengu.jpg
              <div id="grid">
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category1" data-columns="2">
-                     <div class="media-box-image mb-open-popup" data-src="/img/portfo4_tengu.jpg">
-                         <div data-thumbnail="/img/portfo4_tengu.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/fl_tengu.jpg">
+                         <div data-thumbnail="/img/fl_tengu.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">天狗</div>
                              <div class="media-box-date">tengu</div>
@@ -34,8 +34,8 @@ img: /img/portfo4_tengu.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category1">
-                     <div class="media-box-image mb-open-popup" data-src="/img/portfo1_usaginoryuu.jpg">
-                         <div data-thumbnail="/img/portfo1_usaginoryuu.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/il_usaginoryuu.jpg">
+                         <div data-thumbnail="/img/il_usaginoryuu.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">.</div>
                              <div class="media-box-date"></div>
@@ -44,8 +44,8 @@ img: /img/portfo4_tengu.jpg
                  </div>
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category1">
-                     <div class="media-box-image mb-open-popup" data-src="/img/img-3.jpg">
-                         <div data-thumbnail="/img/thumb-3.jpg" ></div>
+                     <div class="media-box-image mb-open-popup" data-src="/img/.jpg">
+                         <div data-thumbnail="/img/.jpg" ></div>
                          <div class="thumbnail-overlay">
                              <div class="media-box-title">.</div>
                              <div class="media-box-date"></div>

@@ -4,9 +4,10 @@ title: artwork
 permalink: /artwork/
 ---
 <html>
-<script>$(window).on(“scroll touchmove”, function () {});</script>
-<body>
-     <!-- Media Boxes CSS files -->
+     <script>$(window).on(“scroll touchmove”, function () {});
+   </script>
+  <body>
+ <!-- Media Boxes CSS files -->
      <link rel="stylesheet" href="{{ site.baseurl }}/plugin/components/Font Awesome/css/font-awesome.min.css">
      <link rel="stylesheet" href="{{ site.baseurl }}/plugin/components/Magnific Popup/magnific-popup.css">
      <link rel="stylesheet" href="{{ site.baseurl }}/plugin/components/Fancybox/jquery.fancybox.min.css">
@@ -28,8 +29,8 @@ permalink: /artwork/
                  <div class="media-box category1">
                      <a href="/artwork/prints_and_illustrations/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                          <div class="thumbnail-overlay overlay-always-visible">
+                         <div data-width="240" data-height="200" data-thumbnail="/img/aw_illust.jpg" ></div>
+                           <div class="thumbnail-overlay overlay-always-visible">
                              <div class="media-box-title">Illustration</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -40,8 +41,8 @@ permalink: /artwork/
                  <div class="media-box category2">
                      <a href="/artwork/paintings/">
                      <div class="media-box-image" data-src="gallery/img-8.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                         <div data-width="240" data-height="200" data-thumbnail="/img/aw_painting.jpg" ></div>
+                           <div class="thumbnail-overlay overlay-always-visible">
                              <div class="media-box-title">Paintings</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -51,9 +52,9 @@ permalink: /artwork/
           <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category3">
                      <a href="/artwork/sketchbook/">
-                     <div class="media-box-image" data-src="gallery/img-8.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                     <div class="media-box-image">
+                         <div data-width="240" data-height="200" data-thumbnail="/img/aw_sketch.jpg" ></div>
+                           <div class="thumbnail-overlay overlay-always-visible">
                              <div class="media-box-title">Sketches</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -63,9 +64,9 @@ permalink: /artwork/
          <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category4">
                      <a href="/artwork/flash/">
-                     <div class="media-box-image" data-src="gallery/img-8.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                     <div class="media-box-image">
+                         <div data-width="240" data-height="200" data-thumbnail="/img/aw_flash.jpg" ></div>
+                           <div class="thumbnail-overlay overlay-always-visible">
                              <div class="media-box-title">Tattoo Flash</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -75,9 +76,9 @@ permalink: /artwork/
           <!-- -------------------------- BOX MARKUP -------------------------- -->
                  <div class="media-box category5">
                      <a href="/artwork/tattoos/">
-                     <div class="media-box-image" data-src="gallery/img-8.jpg">
-                         <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                     <div class="media-box-image">
+                         <div data-width="240" data-height="200" data-thumbnail="/img/aw_tattoos.jpg" ></div>
+                           <div class="thumbnail-overlay overlay-always-visible">
                              <div class="media-box-title">Tattoos</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -88,8 +89,8 @@ permalink: /artwork/
                  <div class="media-box category6">
                      <a href="https://www.instagram.com/horiusagi_/" target="_blank">
                      <div class="media-box-image">
-                         <div data-width="240" data-height="151" data-thumbnail="/img/portfo4_tengu.jpg" ></div>
-                         <div class="thumbnail-overlay overlay-always-visible">
+                         <div data-width="240" data-height="200" data-thumbnail="/img/.jpg" ></div>
+                           <div class="thumbnail-overlay overlay-always-visible">
                              <div class="media-box-title">Instagram</div>
                              <div class="media-box-date"></div>
                          </div>
@@ -101,7 +102,10 @@ permalink: /artwork/
          </div> <!-- #grid -->
          <!--  ================== END MEDIA BOXES ================== -->
          </div> <!-- #grid-container --> 
-     <!-- jQuery 1.8+ -->
+     <hr>
+ <br/>
+     
+ <!-- jQuery 1.8+ -->
      <script src="{{ site.baseurl }}/plugin/components/jQuery/jquery-1.11.3.min.js"></script>
      <!-- Media Boxes JS files -->
      <script src="{{ site.baseurl }}/plugin/components/Isotope/jquery.isotope.min.js"></script>
@@ -114,7 +118,7 @@ permalink: /artwork/
      <script src="{{ site.baseurl }}/plugin/components/Fancybox/jquery.fancybox.min.js"></script>
      <script src="{{ site.baseurl }}/plugin/js/jquery.mediaBoxes.dropdown.js"></script>
      <script src="{{ site.baseurl }}/plugin/js/jquery.mediaBoxes.js"></script>
-     <script>
+      <script>
          $('#grid').mediaBoxes({
              filterContainer: '#filter',
              overlayEffect: 'direction-aware',
@@ -123,5 +127,5 @@ permalink: /artwork/
              columns: 3,
          });
      </script>
- </body>
+    </body>
  </html>
