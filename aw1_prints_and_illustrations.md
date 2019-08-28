@@ -39,7 +39,7 @@ img: /img/portfo1_luckymalletcard.jpg
                      <div class="media-box-image mb-open-popup" data-src="/img/il_usaginoryuu.jpg">
                          <div data-thumbnail="/img/il_usaginoryuu.jpg" ></div>
                          <div class="thumbnail-overlay">
-                             <div class="media-box-title">兎の龍</div>
+                             <div class="media-box-title">兎と龍</div>
                              <div class="media-box-date">Rabbit and Dragon</div>
                          </div>
                      </div>

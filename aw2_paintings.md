@@ -29,7 +29,7 @@ img: /img/portfo2_daruma2.jpg
                      <div class="media-box-image mb-open-popup" data-src="/img/p_yellowbotonnotori.jpg">
                          <div data-thumbnail="/img/p_yellowbotonnotori.jpg" ></div>
                          <div class="thumbnail-overlay">
-                             <div class="media-box-title">ボタンのカラス</div>
+                             <div class="media-box-title">ボタンとカラス</div>
                              <div class="media-box-date">yellow peony and crow
                          in the moonlight</div>
                          </div>
@@ -40,7 +40,7 @@ img: /img/portfo2_daruma2.jpg
                      <div class="media-box-image mb-open-popup" data-src="/img/p_pinkbotonfan.jpg">
                          <div data-thumbnail="/img/p_pinkbotonfan.jpg" ></div>
                          <div class="thumbnail-overlay">
-                             <div class="media-box-title">ボタンの月</div>
+                             <div class="media-box-title">ボタンと月</div>
                              <div class="media-box-date">peony in the moonlight</div>
                          </div>
                      </div>
