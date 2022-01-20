@@ -5,7 +5,7 @@ permalink: /contact/
 description: To book an appointment or set up a consultation, use the contact form below.
 ---
  <input type="text" name="_gotcha" style="display:none" />
- <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/trevor@horiusagi.com" method="post">
+ <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xknyoqrd" method="post">
    <fieldset id="fs-frm-inputs">
      <label for="full-name">Your Name (required)</label>
      <input type="text" name="name" id="full-name" placeholder="" required="" data-kpxc-id="full-name">
